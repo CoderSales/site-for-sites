@@ -28,7 +28,6 @@ a.ain-inner-container {
 }
 
 .inner-contained-1 {
-    background-color: green;
     display:inline;
 	float: left;
 
@@ -36,7 +35,6 @@ a.ain-inner-container {
 
 /* second bit */
 .inner-contained-2 {
-    background-color: red;
     display:inline;
     display:inline;
     text-align:right;
