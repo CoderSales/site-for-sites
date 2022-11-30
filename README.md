@@ -1,16 +1,27 @@
 # site-for-sites
 
 ### Summary of CSS techniques used / possiblilities
+
 float
+
 text-align
+
 grid
+
 flex
+
 flex-direction
+
 display
+
 margin-left: auto;
+
 margin-right: 0;
+
 height: 33vh;
+
 width: 33vw;
+
 
 ### References
 - [css](https://www.w3schools.com/cssref/tryit.php?filename=trycss_unit_vw)
