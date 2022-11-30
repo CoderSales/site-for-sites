@@ -30,3 +30,5 @@ width: 33vw;
 - [How do I right align div elements?](https://stackoverflow.com/questions/7693224/how-do-i-right-align-div-elements)
 - [Two div blocks on same line](https://stackoverflow.com/questions/10451445/two-div-blocks-on-same-line)
 - [Left Align and Right Align Text on the Same Line](https://css-tricks.com/left-align-and-right-align-text-on-the-same-line/)
+
+- [embed one webpage within another](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
