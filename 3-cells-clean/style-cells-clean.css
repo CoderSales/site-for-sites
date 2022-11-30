@@ -1,0 +1,115 @@
+div.container {
+    width: 100vw;
+    height: 90vh;
+    border: 3px dashed #c3c3c3;
+    display: flex;
+    flex-direction: row;
+}
+
+div.col1 {
+    flex-direction: column;
+    border: 3px dashed #c3c3c3;
+    display: flex;
+ }
+
+div.inner1 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid purple;
+
+}
+
+a.ain-inner-container {
+    font-size:15px;
+}
+
+.inner-container {
+    text-align:center;
+}
+
+.inner-contained-1 {
+    background-color: green;
+    display:inline;
+	float: left;
+
+}
+
+/* second bit */
+.inner-contained-2 {
+    background-color: red;
+    display:inline;
+    display:inline;
+    text-align:right;
+    margin-left: auto; 
+    margin-right: 0;
+    float: right;
+}
+
+div.inner2 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid blue;
+
+}
+
+div.inner3 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid red;
+
+}
+
+div.col2 {
+    flex-direction: column;
+    border: 3px dashed #c3c3c3;
+    display: flex;
+ }
+
+ div.inner1c2 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid purple;
+
+}
+
+div.inner2c2 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid blue;
+
+}
+
+div.inner3c2 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid red;
+
+}
+
+
+ div.col3 {
+    flex-direction: column;
+    border: 3px dashed #c3c3c3;
+    display: flex;
+ }
+
+ div.inner1c3 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid purple;
+
+}
+
+div.inner2c3 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid blue;
+
+}
+
+div.inner3c3 {
+    width: 33vw;
+    height: 33vh;
+    border: 1px solid red;
+
+}
