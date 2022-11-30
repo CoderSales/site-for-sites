@@ -1,5 +1,6 @@
 div.container {
-    width: 100vw;
+    padding:1.5em;
+    width: 92vw;
     height: 90vh;
     border: 3px dashed #c3c3c3;
     display: flex;
@@ -13,7 +14,7 @@ div.col1 {
  }
 
 div.inner1 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid purple;
 
@@ -44,14 +45,14 @@ a.ain-inner-container {
 }
 
 div.inner2 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid blue;
 
 }
 
 div.inner3 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid red;
 
@@ -64,21 +65,21 @@ div.col2 {
  }
 
  div.inner1c2 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid purple;
 
 }
 
 div.inner2c2 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid blue;
 
 }
 
 div.inner3c2 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid red;
 
@@ -92,21 +93,21 @@ div.inner3c2 {
  }
 
  div.inner1c3 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid purple;
 
 }
 
 div.inner2c3 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid blue;
 
 }
 
 div.inner3c3 {
-    width: 33vw;
+    width: 30vw;
     height: 33vh;
     border: 1px solid red;
 
