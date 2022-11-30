@@ -14,14 +14,14 @@ div.col1 {
  }
 
 div.inner1 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
     border: 1px solid purple;
 
 }
 
 a.ain-inner-container {
-    font-size:15px;
+    font-size:12px;
 }
 
 .inner-container {
@@ -45,18 +45,26 @@ a.ain-inner-container {
 }
 
 div.inner2 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
     border: 1px solid blue;
 
 }
 
 div.inner3 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
     border: 1px solid red;
 
 }
+
+div.inner4 {
+    width: 22vw;
+    height: 25vh;
+    border: 1px solid red;
+
+}
+
 
 div.col2 {
     flex-direction: column;
@@ -65,22 +73,29 @@ div.col2 {
  }
 
  div.inner1c2 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
     border: 1px solid purple;
 
 }
 
 div.inner2c2 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
     border: 1px solid blue;
 
 }
 
 div.inner3c2 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
+    border: 1px solid red;
+
+}
+
+div.inner4c2 {
+    width: 22vw;
+    height: 25vh;
     border: 1px solid red;
 
 }
@@ -93,22 +108,64 @@ div.inner3c2 {
  }
 
  div.inner1c3 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
     border: 1px solid purple;
 
 }
 
 div.inner2c3 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
     border: 1px solid blue;
 
 }
 
 div.inner3c3 {
-    width: 30vw;
-    height: 33vh;
+    width: 22vw;
+    height: 25vh;
+    border: 1px solid red;
+
+}
+
+div.inner4c3 {
+    width: 22vw;
+    height: 25vh;
+    border: 1px solid red;
+
+}
+
+/* col4 */
+div.col4 {
+    flex-direction: column;
+    border: 3px dashed #c3c3c3;
+    display: flex;
+ }
+
+ div.inner1c4 {
+    width: 22vw;
+    height: 25vh;
+    border: 1px solid purple;
+
+}
+
+div.inner2c4 {
+    width: 22vw;
+    height: 25vh;
+    border: 1px solid blue;
+
+}
+
+div.inner3c4 {
+    width: 22vw;
+    height: 25vh;
+    border: 1px solid red;
+
+}
+
+div.inner4c4 {
+    width: 22vw;
+    height: 25vh;
     border: 1px solid red;
 
 }
