@@ -13,11 +13,57 @@ div.col1 {
  }
 
 div.inner1 {
-    width: 33vw;
+    width: 490px;
     height: 33vh;
     border: 1px solid purple;
 
 }
+
+a.ain-inner-container {
+    font-size:15px;
+}
+
+.inner-container {
+    text-align:center; /*Rxd not working*/
+}
+
+.inner-contained-1 {
+    /* text-align:center; */
+    background-color: green;
+    display:inline;
+
+}
+
+/* second bit */
+.inner-contained-2 {
+    /* text-align:center; */
+    background-color: red;
+    display:inline;
+    /* text-align: left; */
+    display:inline;
+    text-align:right;
+    margin-left: auto; 
+    margin-right: 0;
+}
+
+/* .twolevel1 { */
+    /* display:flex; */
+    /* flex-direction:row; */
+    /* text-align: left;
+    display:inline;
+    text-align:right;
+    margin-left: auto; 
+    margin-right: 0; */
+/* } */
+
+/* .twolevel2 {
+    display:flex;
+    text-align:right;
+    margin-left: auto; 
+    margin-right: 0;
+    display:inline;
+
+} */
 
 div.inner2 {
     width: 33vw;
