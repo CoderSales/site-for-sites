@@ -28,6 +28,11 @@ a.ain-inner-container {
     text-align:center;
 }
 
+.hovercl:hover {
+    background-color: aquamarine;
+}
+
+
 .inner-contained-1 {
     display:inline;
 	float: left;

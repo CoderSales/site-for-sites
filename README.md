@@ -32,3 +32,7 @@ width: 33vw;
 - [Left Align and Right Align Text on the Same Line](https://css-tricks.com/left-align-and-right-align-text-on-the-same-line/)
 
 - [embed one webpage within another](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
+- [w3schhols img tag](https://www.w3schools.com/html/html_images.asp)
+- [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
+- [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#:~:text=A%20CSS%20selector%20is%20the,the%20rule%20applied%20to%20them.)
+- [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
