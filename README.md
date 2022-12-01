@@ -42,3 +42,6 @@ width: 33vw;
 
 - [How do I use Target=_blank on a response.redirect?](https://stackoverflow.com/questions/8994285/how-do-i-use-target-blank-on-a-response-redirect)
 - [HTML <a> target Attribute](https://www.w3schools.com/tags/att_a_target.asp)
+
+#### Jupyter notebook embed
+- [Jupyter Everywhere](https://blog.jupyter.org/jupyter-everywhere-f8151c2cc6e8)
