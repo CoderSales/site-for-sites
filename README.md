@@ -1,5 +1,5 @@
 # site-for-sites
-
+- ![final.png](/img/final.png)
 ### Summary of CSS techniques used / possiblilities
 
 float
