@@ -39,3 +39,6 @@ width: 33vw;
 
 #### Stackoverflow Snapshots
 - [2-1-stackoverflow-cdf.png](https://stackoverflow.com/questions/24788200/calculate-the-cumulative-distribution-function-cdf-in-python)
+
+- [How do I use Target=_blank on a response.redirect?](https://stackoverflow.com/questions/8994285/how-do-i-use-target-blank-on-a-response-redirect)
+- [HTML <a> target Attribute](https://www.w3schools.com/tags/att_a_target.asp)
