@@ -1,19 +1,19 @@
-html:hover {
+/* html:hover {
     background-color: rgb(226, 195, 255);
-}
+} */
 
 div.container {
     padding:1.5em;
     width: 92vw;
     height: 90vh;
-    border: 3px dashed #c3c3c3;
+    /* border: 3px dashed #c3c3c3; */
     display: flex;
     flex-direction: row;
 }
 
-div.container:hover {
+/* div.container:hover {
     background-color: rgb(255, 209, 209);
-}
+} */
 
 div.col1 {
     flex-direction: column;

@@ -36,3 +36,6 @@ width: 33vw;
 - [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before)
 - [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#:~:text=A%20CSS%20selector%20is%20the,the%20rule%20applied%20to%20them.)
 - [hover](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+#### Stackoverflow Snapshots
+- [2-1-stackoverflow-cdf.png](https://stackoverflow.com/questions/24788200/calculate-the-cumulative-distribution-function-cdf-in-python)
